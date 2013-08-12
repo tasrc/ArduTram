@@ -1,0 +1,15 @@
+Anschluss  Pin  Bezeichnung
+------------------------------------
+1          GND  Masse
+2               +12V Eingang
+3          5/6  Weiche Ost weiß
+4          5/6  Weiche Ost braun
+5          7/8  Weiche West weiß
+6          7/8  Weiche West braun
+7          3/9  Motor/Gleis blau
+8          3/9  Motor/Gleis gelb
+
+A          GND  Masse
+B          5V   +5V Ausgang
+C          A0   Fotowiderstand Nord orange
+D          A1   Fotowiderstand Süd grün
